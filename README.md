@@ -11,22 +11,35 @@
 </p>
 ...
 
-### ✨ About Me
 
-- 🌍 Based in Jimma, Oromia, Ethiopia
-- 🌐 Frontend specialist with a growing passion for backend development
-- 🧠 Currently learning Node.js, Java, REST APIs, and databases
-- 💡 Love building real-world web apps with clean design and scalable architecture
-- 🧭 Goal: Become a full-stack web developer with a focus on e-commerce and scalable platforms
+### 🧙‍♂️✨ About ME ✨🧙‍♂️
+
+> 🗺️ **Origin Realm:**  
+> 🏡 I live in Jimma, Oromia, Ethiopia
+
+> 🧪 **Magic Specialization:**  
+> 🎨 I work mostly with front-end design and love making beautiful websites
+
+> 🌀 **Spellbook in Progress:**  
+> ⚙️ I’m learning Node.js, Java, REST APIs, and databases
+
+> 💡 **Creative Magic:**  
+> 🏗️ I like building useful websites that look nice and work well
+
+> 🌟 **Quest Goal:**  
+> ⚔️ I want to become a full-stack developer, especially for online shops and big websites
 
 ---
+
 
 ### 🔧 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mongodb,git,github,vscode" />
 </p>
-
+<p align="center">
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+</p>
 ---
 
 ### 🚀 Featured Projects
