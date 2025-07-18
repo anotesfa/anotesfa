@@ -5,7 +5,6 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=I+design+and+develop+for+the+web.;Frontend+Roots+%7C+Backend+Focus+%7C+Full-Stack+Dreams" alt="Typing SVG" />
 </p>
-
 ---
 
 ### ✨ About Me
@@ -62,6 +61,10 @@
 ### 💬 Motto
 
 > _"Code with soul. Learn with fire. Build with purpose."_ 🔥
+
+<p align="center">
+  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb34f5,100:3b82f6&height=120&section=footer"/>
