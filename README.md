@@ -1,5 +1,5 @@
 <!-- 🌟 Anam Tesfa's GitHub Profile README -->
-<h1 align="center">Hey there 👋, I'm Anam Tesfa</h1>
+<h1 align="center">Welcome, I'm Anam Tesfa</h1>
 <h3 align="center">💻 Frontend Developer | Aspiring Backend Engineer | Based in Jimma, Ethiopia</h3>
 
 <p align="center">
@@ -61,8 +61,10 @@
   <br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=anotesfa&theme=github-compact" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="250" />
+</p>
 
----
 
 ### 🌐 Let’s Connect
 
@@ -73,15 +75,8 @@
   <a href="https://www.instagram.com/call_me_anahm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
----
-
-### 💬 Motto
-
-> _"Code with soul. Learn with fire. Build with purpose."_ 🔥
-
-<p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="250" />
-</p>
+### 🥹Goodbye, and thanks for stopping by! Come back anytime!✨   
+   ![Bye Thanks](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)  
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb34f5,100:3b82f6&height=120&section=footer"/>
