@@ -76,8 +76,8 @@
   <a href="https://www.instagram.com/call_me_anahm"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </p>
 
-### 🥹Goodbye, and thanks for stopping by! Come back anytime!✨   
-   ![Bye Thanks](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif)  
+### <p align="center">🥹Goodbye, and thanks for stopping by! Come back anytime!✨ </p>  
+  ![Bye Thanks](https://media.giphy.com/media/xT5LMHxhOfscxPfIfm/giphy.gif) 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:bb34f5,100:3b82f6&height=120&section=footer"/>
