@@ -9,13 +9,13 @@
 <p align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="200" />
 </p>
-...
+
 
 
 ### 🧙‍♂️✨ About ME ✨🧙‍♂️
 
 > 🗺️ **Origin Realm:**  
-> 🏡 I live in Jimma, Oromia, Ethiopia
+> 🏡 I'm Software Engineering Student at Jimma Institute of Technology
 
 > 🧪 **Magic Specialization:**  
 > 🎨 I work mostly with front-end design and love making beautiful websites
@@ -32,15 +32,16 @@
 ---
 
 
-### 🔧 Tech Stack
+
+### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mongodb,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mongodb,git,github,vscode&theme=light&perline=5" alt="Tech Stack" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="300" alt="Coding Gif" />
 </p>
----
+
 
 ### 🚀 Featured Projects
 
