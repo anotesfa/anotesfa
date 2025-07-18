@@ -5,7 +5,11 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=I+design+and+develop+for+the+web.;Frontend+Roots+%7C+Backend+Focus+%7C+Full-Stack+Dreams" alt="Typing SVG" />
 </p>
----
+
+<p align="center">
+  <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="200" />
+</p>
+...
 
 ### ✨ About Me
 
@@ -63,7 +67,7 @@
 > _"Code with soul. Learn with fire. Build with purpose."_ 🔥
 
 <p align="center">
-  <img src="https://media.giphy.com/media/fAnEC88LccN7a/giphy.gif" width="300" />
+  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8v/giphy.gif" width="250" />
 </p>
 
 <p align="center">
