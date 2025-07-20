@@ -2,7 +2,7 @@
 <h1 align="center">Welcome, I'm Anam Tesfa</h1>
 <h3 align="center">💻 Frontend Developer | Aspiring Backend Engineer | Based in Jimma, Ethiopia</h3> 
 
-<p align="center">
+<p align="center"> 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=600&height=80&lines=I+design+and+develop+for+the+web.;Frontend+Roots+%7C+Backend+Focus+%7C+Full-Stack+Dreams" alt="Typing SVG" />
 </p>
 
