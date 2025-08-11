@@ -11,7 +11,6 @@
 </p>
 
 ### 🧙‍♂️✨ About ME ✨🧙‍♂️
-
 > 🗺️ **Origin Realm:**  
 > 🏡 I'm Software Engineering Student at Jimma Institute of Technology
 
