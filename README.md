@@ -26,10 +26,10 @@
 > 🌟 **Quest Goal:**  
 > ⚔️ I want to become a full-stack developer, especially for online shops and big websites
 
----
 
 
-### 🛠️ Tech Stack
+
+### 🛠️ Tech Stack 👨🏻‍💻
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,java,nodejs,express,mongodb,git,github,vscode&theme=light&perline=5" alt="Tech Stack" />
