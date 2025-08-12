@@ -27,7 +27,6 @@
 > ⚔️ I want to become a full-stack developer, especially for online shops and big websites
 
 
-
 ### 🛠️ Tech Stack 👨🏻‍💻
 
 <p align="center">
