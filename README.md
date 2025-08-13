@@ -9,7 +9,6 @@
 <p align="center">
   <img src="https://media.giphy.com/media/KzJkzjggfGN5Py6nkT/giphy.gif" width="200" />
 </p>
-
 ### 🧙‍♂️✨ About ME ✨🧙‍♂️
 > 🗺️ **Origin Realm:**  
 > 🏡 I'm Software Engineering Student at Jimma Institute of Technology
